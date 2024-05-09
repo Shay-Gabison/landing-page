@@ -1,8 +1,24 @@
-.menu {
+.menu0 {
     width: 80%;
-    background-color: burlywood;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
+    background-color: #1f2937;
+    
+    max-width: 500px;
+  }
+  .menu1 {
+    width: 80%;
+    background-color: yellow;
+    
+    max-width: 500px;
+  }
+  .menu2 {
+    width: 80%;
+    background-color:blue;
+    
+    max-width: 500px;
+  }
+  .menu3 {
+    width: 80%;
+    background-color:aqua;
+    
     max-width: 500px;
   }
