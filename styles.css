@@ -2,23 +2,27 @@
     width: 80%;
     background-color: #1f2937;
     margin: auto;
+
     max-width: 500px;
   }
   .menu1 {
     width: 80%;
     background-color: yellow;
-    
+        margin: auto;
+
     max-width: 500px;
   }
   .menu2 {
     width: 80%;
     background-color:blue;
-    
+    margin: auto;
+
     max-width: 500px;
   }
   .menu3 {
     width: 80%;
     background-color:aqua;
-    
+    margin: auto;
+
     max-width: 500px;
   }
